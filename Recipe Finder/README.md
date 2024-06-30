@@ -3,7 +3,7 @@
 
 ## Introduction
 
- Recipe Finder was created to address the pressing issure of food wast, a problem that significantly contributes to climate change. By offering a solution to help households make the most of their available ingredients, Recipe Finder aims to combat food waste and its harmful environmental impact.
+ Recipe Finder was created to address the present issue of food waste, a problem that significantly contributes to climate change. By offering a solution to help households make the most of their available ingredients, Recipe Finder aims to combat food waste and its harmful environmental impact.
  
 ## Problem: Food Waste
  Food waste is a significant problem that is contributing to Climate Change. This waste ends up landfills that produces methane, a greenhouse gas. 
