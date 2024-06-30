@@ -1,0 +1,56 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Inter;
+}
+body a {
+  text-decoration: inherit;
+}
+body h2, body h4 {
+  color: #F4C524;
+  text-align: center;
+}
+body h5 {
+  text-align: center;
+}
+body form {
+  padding-top: 10%;
+  text-align: center;
+  margin: auto;
+}
+body form input {
+  width: 90%;
+  padding: 15%;
+}
+body form button {
+  width: 50%;
+  background-color: green;
+}
+
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  display: none;
+  overflow: hidden;
+}
+.youtube-video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  }
+/*# sourceMappingURL=style.css.map */
